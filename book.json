@@ -1,8 +1,6 @@
 {
+    "root": "./content",
     "title": "XOS-GUI User Documentation",
     "gitbook": "3.2.2",
-    "plugins": ["youtube"],
-    "structure": {
-        "root": "./content"
-    }
+    "plugins": ["youtube"]
 }
