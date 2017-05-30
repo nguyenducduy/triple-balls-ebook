@@ -4,5 +4,5 @@
     "plugins": ["youtube"],
     "structure": {
         "root": "./content"
-    },
+    }
 }
