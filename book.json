@@ -1,5 +1,5 @@
 {
-    "root": "./content",
+    "root": "./",
     "gitbook": "3.2.2",
     "plugins": ["youtube"]
 }
