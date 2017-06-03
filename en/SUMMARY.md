@@ -12,6 +12,7 @@
 * [Zone 3](plus-system/p6.md) 
 * [Zone 4](plus-system/p7.md)   
 * [Zone 5](plus-system/p8.md)
+* [The Paths from the Third to the Fourth Rail](plus-system/p9.md)
 
 ### CONTI SYSTEM
 
