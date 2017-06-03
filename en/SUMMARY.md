@@ -2,7 +2,7 @@
 
 ### 
 
-### PLUS SYSTEM
+### Plus System
 
 * [Usage](plus-system/p1.md)
 * [A Training Plan for the Plus System](plus-system/p2.md)
@@ -15,9 +15,14 @@
 * [The Paths from the Third to the Fourth Rail](plus-system/p9.md)
 * [Example of a Calculation off B 2](plus-system/p10.md)
 
-### CONTI SYSTEM
+### Japanese System (0.7 - System)
 
-* [Usage](plus-system/guide.md)
+* [Usage](jap07/p1.md)
+* [The Numbering](jap07/p2.md)
+* [Calculation](jap07/p3.md)
+* [How to Calculate using Examples](jap07/p4.md)
+* [Problematic Zones and Corrections](jap07/p5.md)
+* [How to Calculate Playing off B 2 Using an Example](jap07/p6.md)
 
 
 
