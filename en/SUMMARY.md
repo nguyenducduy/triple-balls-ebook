@@ -11,6 +11,7 @@
 * [Zone 2](plus-system/p5.md)
 * [Zone 3](plus-system/p6.md) 
 * [Zone 4](plus-system/p7.md)   
+* [Zone 5](plus-system/p8.md)
 
 ### CONTI SYSTEM
 
