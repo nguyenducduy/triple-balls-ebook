@@ -24,5 +24,10 @@
 * [Problematic Zones and Corrections](jap07/p5.md)
 * [How to Calculate Playing off B 2 Using an Example](jap07/p6.md)
 
+### Two-Rails-Bank-Shot System "Long - Short - B 2 - Short"
 
+* [Usage](lsb2s/p1.md)
+* [The Numbering](lsb2s/p2.md)
+* [The Calculation Formula](lsb2s/p3.md)
+* [Example for the Calculation](lsb2s/p4.md)
 
