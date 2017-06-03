@@ -13,6 +13,7 @@
 * [Zone 4](plus-system/p7.md)   
 * [Zone 5](plus-system/p8.md)
 * [The Paths from the Third to the Fourth Rail](plus-system/p9.md)
+* [Example of a Calculation off B 2](plus-system/p10.md)
 
 ### CONTI SYSTEM
 
