@@ -8,6 +8,7 @@
 * [A Training Plan for the Plus System](plus-system/p2.md)
 * [The Numbering](plus-system/p3.md)
 * [Zone 1](plus-system/p4.md)
+* [Zone 2](plus-system/p5.md)
 
 ### CONTI SYSTEM
 
